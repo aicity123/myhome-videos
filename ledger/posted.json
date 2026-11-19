@@ -1,0 +1,29 @@
+[
+ {
+  "date": "2026-11-20",
+  "slot": "0800",
+  "id": "rank_mansion_koukai",
+  "type": "rank",
+  "topic": "マンション購入の後悔ランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000338.000007875.html",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-20",
+  "slot": "1200",
+  "id": "yachin_10",
+  "type": "quiz",
+  "topic": "家賃10万円で買える家の値段",
+  "source_url": "",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-20",
+  "slot": "1800",
+  "id": "rank_kodate_shippai",
+  "type": "rank",
+  "topic": "一戸建て購入の失敗ランキング",
+  "source_url": "https://wakearipro.com/detached-house-purchase-failure-ranking/",
+  "metricool": "ok"
+ }
+]
