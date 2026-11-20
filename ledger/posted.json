@@ -25,5 +25,32 @@
   "topic": "一戸建て購入の失敗ランキング",
   "source_url": "https://wakearipro.com/detached-house-purchase-failure-ranking/",
   "metricool": "ok"
+ },
+ {
+  "date": "2026-11-21",
+  "slot": "0800",
+  "id": "rank_loan_fuan",
+  "type": "rank",
+  "topic": "住宅ローンを組む際に感じた不安ランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000201.000055654.html",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-21",
+  "slot": "1200",
+  "id": "rank_kawanakereba",
+  "type": "rank",
+  "topic": "家なんて買わなければよかったと思う瞬間ランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000005.000086377.html",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-21",
+  "slot": "1800",
+  "id": "points_miru_mae",
+  "type": "points",
+  "topic": "物件を見る前にやること3つ",
+  "source_url": "",
+  "metricool": "ok"
  }
 ]
