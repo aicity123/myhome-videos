@@ -52,5 +52,32 @@
   "topic": "物件を見る前にやること3つ",
   "source_url": "",
   "metricool": "ok"
+ },
+ {
+  "date": "2026-11-22",
+  "slot": "0800",
+  "id": "rank_loan_kaizen",
+  "type": "rank",
+  "topic": "もう一度住宅ローンを組むなら改善したいことランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000272.000055654.html",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-22",
+  "slot": "1200",
+  "id": "rank_kattaato_gap",
+  "type": "rank",
+  "topic": "家を買った後に感じたギャップランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000074.000111955.html",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-22",
+  "slot": "1800",
+  "id": "points_kariru_kaeseru",
+  "type": "points",
+  "topic": "借りられる額と返せる額のちがい3つ",
+  "source_url": "",
+  "metricool": "ok"
  }
 ]
