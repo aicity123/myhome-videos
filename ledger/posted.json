@@ -79,5 +79,32 @@
   "topic": "借りられる額と返せる額のちがい3つ",
   "source_url": "",
   "metricool": "ok"
+ },
+ {
+  "date": "2026-11-23",
+  "slot": "0800",
+  "id": "rank_seikatsuhi_osaeru",
+  "type": "rank",
+  "topic": "持ち家での生活費を抑える方法ランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000194.000055654.html",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-23",
+  "slot": "1200",
+  "id": "rank_ricchi_koukai",
+  "type": "rank",
+  "topic": "家の立地で後悔していることランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000058.000055654.html",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-23",
+  "slot": "1800",
+  "id": "points_line_nagare",
+  "type": "points",
+  "topic": "LINEで相談するとどうなる？3つの流れ",
+  "source_url": "",
+  "metricool": "ok"
  }
 ]
