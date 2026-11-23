@@ -106,5 +106,32 @@
   "topic": "LINEで相談するとどうなる？3つの流れ",
   "source_url": "",
   "metricool": "ok"
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "0800",
+  "id": "rank_loan_koukai_shinai",
+  "type": "rank",
+  "topic": "住宅ローンで後悔しないために大事なことランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000055654.html",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "1200",
+  "id": "rank_chuko_fuan",
+  "type": "rank",
+  "topic": "リフォーム済みでなければ中古住宅の購入を避ける理由ランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000371.000055654.html",
+  "metricool": "ok（1回目は動画の取得が時間切れ、同じ入力の再試行で成功）"
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "1800",
+  "id": "points_soudan_fuan",
+  "type": "points",
+  "topic": "相談する前の不安3つに答えます",
+  "source_url": "",
+  "metricool": "ok"
  }
 ]
