@@ -133,5 +133,32 @@
   "topic": "相談する前の不安3つに答えます",
   "source_url": "",
   "metricool": "ok"
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "0800",
+  "id": "rank_ketsudan_youin",
+  "type": "rank",
+  "topic": "マイホーム購入を決断する要因ランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000098.000055654.html",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "1200",
+  "id": "rank_nairan_chuui",
+  "type": "rank",
+  "topic": "物件の内覧時にもっと注意すればよかったことランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000042.000055654.html",
+  "metricool": "ok"
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "1800",
+  "id": "rank_fuufu_iken",
+  "type": "rank",
+  "topic": "家の購入時に夫婦で意見が合わなかったことランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000015.000055654.html",
+  "metricool": "ok"
  }
 ]
