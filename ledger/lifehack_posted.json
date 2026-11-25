@@ -1,0 +1,18 @@
+[
+ {
+  "date": "2026-11-25",
+  "slot": "1900",
+  "id": "zukai_banana",
+  "topic": "冷蔵庫のバナナはなぜ黒くなる？（保存方法）",
+  "source_url": "https://weathernews.jp/news/202508/060086/",
+  "metricool": "pending"
+ },
+ {
+  "date": null,
+  "slot": null,
+  "id": "zukai_gohan",
+  "topic": "余ったご飯は冷蔵より冷凍（でんぷんの老化）",
+  "source_url": "https://panasonic.jp/life/food/110133.html",
+  "metricool": "未投稿（試験で作成済みの予備。この題材は新しく作らない）"
+ }
+]
