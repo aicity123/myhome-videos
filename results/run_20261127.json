@@ -2,6 +2,7 @@
  "started_at": "2026-11-27T04:25:14+09:00",
  "status": "running",
  "slots": {
-  "0800": "予約済み id=443574451 (rank_juushi_kounyu)"
+  "0800": "予約済み id=443574451 (rank_juushi_kounyu)",
+  "1200": "予約済み id=443584403 (rank_kodate_yokatta)"
  }
 }
