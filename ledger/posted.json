@@ -160,5 +160,23 @@
   "topic": "家の購入時に夫婦で意見が合わなかったことランキング",
   "source_url": "https://prtimes.jp/main/html/rd/p/000000015.000055654.html",
   "metricool": "ok"
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "0800",
+  "id": "rank_mochiie_riyuu",
+  "type": "rank",
+  "topic": "持ち家に住む理由ランキング",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000311.000055654.html",
+  "metricool": "ok（11/27の実行で、Metricool上の公開済みを確認して追記）"
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "0800",
+  "id": "rank_juushi_kounyu",
+  "type": "rank",
+  "topic": "家を買うとき重視することランキング",
+  "source_url": "https://mogecheck.jp/articles/show/6YVbGzA82ybQqjpyxJBo",
+  "metricool": "予約前"
  }
 ]
