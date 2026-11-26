@@ -178,5 +178,14 @@
   "topic": "家を買うとき重視することランキング",
   "source_url": "https://mogecheck.jp/articles/show/6YVbGzA82ybQqjpyxJBo",
   "metricool": "ok"
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "1200",
+  "id": "rank_kodate_yokatta",
+  "type": "rank",
+  "topic": "一戸建てを購入して良かったことランキング",
+  "source_url": "https://resemom.jp/release/prtimes/20230718/101298.html",
+  "metricool": "予約前"
  }
 ]
