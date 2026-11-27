@@ -14,5 +14,20 @@
   "topic": "余ったご飯は冷蔵より冷凍（でんぷんの老化）",
   "source_url": "https://panasonic.jp/life/food/110133.html",
   "metricool": "未投稿（試験で作成済みの予備。この題材は新しく作らない）"
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "1215",
+  "id": "zukai_renji_tamago",
+  "topic": "電子レンジで卵が破裂するのはなぜ？（事故を防ぐ3つのポイント）",
+  "source_url": "https://www.kokusen.go.jp/news/data/n-20260325_1.html",
+  "theme": "berry",
+  "variant": {
+   "hook": 1,
+   "compare": 0,
+   "steps": 1,
+   "thumb": 2
+  },
+  "metricool": "ok id=443877861"
  }
 ]
