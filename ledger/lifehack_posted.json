@@ -58,6 +58,22 @@
    "steps": 1,
    "thumb": 2
   },
+  "metricool": "ok id=444919689"
+ },
+ {
+  "date": "2026-11-28",
+  "slot": "1215",
+  "id": "zukai_tamanegi",
+  "topic": "玉ねぎを切ると涙が出るのはなぜ？（涙を出にくくする3つのコツ）",
+  "source_url": "https://tokubai.co.jp/news/articles/3839",
+  "source_url2": "https://housefoods-group.com/newsrelease/pdf/namida.pdf",
+  "theme": "berry",
+  "variant": {
+   "hook": 0,
+   "compare": 1,
+   "steps": 0,
+   "thumb": 0
+  },
   "metricool": "予約前"
  }
 ]
