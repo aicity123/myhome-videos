@@ -28,6 +28,21 @@
    "steps": 1,
    "thumb": 2
   },
-  "metricool": "ok id=443877861"
+  "metricool": "ok id=443877861（TikTok公開済み。YouTubeは公開済みだが警告: Could not upload video thumbnail）"
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "1900",
+  "id": "zukai_heyaboshi",
+  "topic": "部屋干しのにおいはなぜ出る？（早く乾かす3つのコツ）",
+  "source_url": "https://panasonic.jp/life/air/170068.html",
+  "theme": "fresh",
+  "variant": {
+   "hook": 1,
+   "compare": 1,
+   "steps": 1,
+   "thumb": 1
+  },
+  "metricool": "ok id=443889070"
  }
 ]
